@@ -1,6 +1,7 @@
 # FastComposer: Tuning-Free Multi-Subject Image Generation with Localized Attention [[website](https://fastcomposer.mit.edu/)] [[demo](https://fastcomposer.hanlab.ai)][[replicate api](https://replicate.com/cjwbw/fastcomposer)]
 
-![multi-subject](figures/multi-subject.png)
+![resize_multi-subject](https://github.com/xiaomile/fastcomposer/assets/14927720/8a25789c-8d30-40cb-8ac5-e3bd3b617aac)
+
 
 ## Abstract
 
@@ -58,8 +59,24 @@ bash scripts/run_training.sh
 ```
 
 ## test images
-![einstein](https://github.com/xiaomile/fastcomposer/assets/14927720/91635451-54b6-4dc6-92a7-c1d02f88b62e)
-![newton](https://github.com/xiaomile/fastcomposer/assets/14927720/66b67f53-dff0-4d25-a9af-3330e446aa48)
+<table align="center">
+<thead>
+  <tr>
+    <td>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/14927720/265911400-91635451-54b6-4dc6-92a7-c1d02f88b62e.jpeg" width="400"/>
+  <br/>
+  <b>'einstein.png'</b>
+</div></td>
+    <td>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/14927720/265911502-66b67f53-dff0-4d25-a9af-3330e446aa48.jpeg" width="400"/>
+  <br/>
+  <b>'newton.png'</b>
+</div></td>
+    <td>
+</thead>
+</table>
 
 
 ## output

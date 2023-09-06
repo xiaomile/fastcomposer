@@ -57,6 +57,15 @@ Run training:
 bash scripts/run_training.sh
 ```
 
+## test images
+![einstein](https://github.com/xiaomile/fastcomposer/assets/14927720/91635451-54b6-4dc6-92a7-c1d02f88b62e)
+![newton](https://github.com/xiaomile/fastcomposer/assets/14927720/66b67f53-dff0-4d25-a9af-3330e446aa48)
+
+
+## output
+![output_0](https://github.com/xiaomile/fastcomposer/assets/14927720/4975d6e2-c5fc-4324-80c9-a7a512953218)
+
+
 ## TODOs
 
 - [x] Release inference code
